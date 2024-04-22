@@ -1,4 +1,4 @@
-## Centio.AI
+## Centio.AI💻
 
 An AI assistant app that mixes AI features with traditional personal productivity. The
 AI can work in the background to answer multiple chats, handle tasks, and stream/feed entries.
