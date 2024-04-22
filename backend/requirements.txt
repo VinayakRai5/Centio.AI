@@ -1,0 +1,11 @@
+flask
+openai
+beautifulsoup4
+Requests
+duckduckgo_search
+sentence_transformers
+markdownify
+bs4
+chromadb
+pymupdf
+toml
