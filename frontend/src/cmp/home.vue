@@ -86,7 +86,7 @@ export default {
   <div class="flex-x m-1 mb-2 mx-2 xcard round-sm">
     <div class="ml-0 card flex-x flex-ctr">
       <h4 class="my-0 ml-1 mr-3">
-        Nucleo
+        Centio.AI
       </h4>
       <button @click="view = 'stream'" class="btn btn-sm btn-tab mr-2"
           :class="view == 'stream' ? 'btn-tab-sel' : ''">Stream</button>
@@ -98,7 +98,7 @@ export default {
           :class="view == 'chat' ? 'btn-tab-sel' : ''">Chat</button>
     </div>
     <div class="flex-grow"></div>
-    <a href="https://github.com/AndrewVeee/nucleo-ai#getting-help" target="_blank"
+    <a href="https://github.com/VinayakRai5/Centio.AI" target="_blank"
         class="btn btn-sm btn-plain">
       <svg-icon name="help" size="20"></svg-icon>
     </a>
